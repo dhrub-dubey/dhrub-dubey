@@ -21,7 +21,7 @@ When I'm not coding, you’ll find me at the piano or composing music for my art
 
 ## 📊 GitHub Language Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrub-dubey&layout=compact&theme=github_dark&langs_count=10" width="800"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrub-dubey&layout=compact&theme=github_dark width="800"/>
 
 ---
 
